@@ -1,4 +1,8 @@
 # Automatizando Tarefas com AWS Lambda e Amazon S3
+# Anna Elizabeth Parra Rausseo
+# https://github.com/annaeparrar/
+
+> **Status:** Concluído
 
 ## Desafio de Projeto - Digital Innovation One (DIO)
 
